@@ -1,0 +1,25 @@
+table{
+    border:3px double;
+}
+h3{
+    color:red;
+    text-align: right;
+    letter-spacing: 3px;
+    font-size:18pt;
+}
+.ligne1{
+    background-color: blue;
+    text-shadow: 1px 2px 4px grey;
+    color:rgb(200,145,20);
+    opacity:0,3;
+    font-size:20pt;
+}
+.ligne2{
+    font-family:arial;
+    font-size:16px;
+    word-spacing: 3px;
+    font-weight: bold;
+}
+body{
+    border-spacing: 10px;
+}

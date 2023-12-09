@@ -1,0 +1,17 @@
+table{
+    border:3px rgb(123,123,145) dashed;
+    column-width: 1,2,3,4=15%;
+    column-width: 5,6,7,8=10%;
+}
+td{
+    border:3px black solid;
+}
+.colonne{
+    background-color: yellow;
+}
+.col3{
+    background-color: blue;
+}
+.lig{
+    background-color: red;
+}
